@@ -1,0 +1,22 @@
+{
+  "name": "browserify-budo",
+  "version": "1.0.0",
+  "description": "simple setup with browserify and budo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomaskarl/browserify-budo.git"
+  },
+  "author": "Thomas Karl Andersson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomaskarl/browserify-budo/issues"
+  },
+  "homepage": "https://github.com/thomaskarl/browserify-budo#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
